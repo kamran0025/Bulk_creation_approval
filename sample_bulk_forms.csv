@@ -1,0 +1,31 @@
+firstName,lastName,email,phone,street,city,state,zipCode,country,company,jobTitle,interests,newsletter
+Alex,Thompson,alex.thompson@email.com,+1234567890,1234 Technology Blvd,San Francisco,CA,94102,USA,Google,Software Engineer,Technology;Design;Business,true
+Maria,Rodriguez,maria.rodriguez@email.com,+1987654321,5678 Innovation Way,Austin,TX,78701,USA,Microsoft,Product Manager,Technology;Marketing,false
+James,Wilson,james.wilson@email.com,+1555123456,9012 Startup Street,Seattle,WA,98101,USA,Amazon,Data Scientist,Technology;Education,true
+Emma,Johnson,emma.johnson@email.com,+1444987654,3456 Creative Ave,New York,NY,10001,USA,Adobe,UI/UX Designer,Design;Technology,true
+Carlos,Martinez,carlos.martinez@email.com,+1777456123,7890 Business Plaza,Chicago,IL,60601,USA,Salesforce,Sales Manager,Business;Marketing,false
+Sophie,Chen,sophie.chen@email.com,+1666789012,2345 Health Center Dr,Los Angeles,CA,90001,USA,Kaiser Permanente,Nurse Practitioner,Health;Education,true
+Ryan,Davis,ryan.davis@email.com,+1333456789,6789 Education Lane,Boston,MA,02101,USA,Harvard University,Research Professor,Education;Technology,true
+Isabella,Garcia,isabella.garcia@email.com,+1888123456,1357 Marketing Hub,Miami,FL,33101,USA,Meta,Digital Marketing Specialist,Marketing;Design,false
+Ethan,Brown,ethan.brown@email.com,+1222789456,2468 Finance Tower,Denver,CO,80202,USA,Goldman Sachs,Financial Analyst,Business,true
+Olivia,Taylor,olivia.taylor@email.com,+1999456123,3579 Design Studio,Portland,OR,97201,USA,Nike,Brand Designer,Design;Marketing,true
+Noah,Anderson,noah.anderson@email.com,+1111234567,4680 Tech Park,Raleigh,NC,27601,USA,IBM,Cloud Architect,Technology,false
+Ava,Thomas,ava.thomas@email.com,+1777123890,5791 Healthcare Blvd,Phoenix,AZ,85001,USA,Mayo Clinic,Medical Researcher,Health;Technology,true
+Liam,Jackson,liam.jackson@email.com,+1555987321,6802 Startup Hub,Nashville,TN,37201,USA,Spotify,Audio Engineer,Technology;Design,true
+Mia,White,mia.white@email.com,+1444123987,7913 Innovation Center,Atlanta,GA,30301,USA,Coca-Cola,Brand Manager,Marketing;Business,false
+Lucas,Harris,lucas.harris@email.com,+1888654321,8024 Tech Valley,Salt Lake City,UT,84101,USA,Adobe,Frontend Developer,Technology;Design,true
+Amelia,Martin,amelia.martin@email.com,+1666321654,9135 Creative Quarter,San Diego,CA,92101,USA,Airbnb,Product Designer,Design;Technology,true
+Benjamin,Thompson,benjamin.thompson@email.com,+1333987654,1246 Business District,Houston,TX,77001,USA,ExxonMobil,Project Manager,Business;Technology,false
+Charlotte,Garcia,charlotte.garcia@email.com,+1999321456,2357 Education Plaza,Philadelphia,PA,19101,USA,University of Pennsylvania,Academic Advisor,Education,true
+Mason,Martinez,mason.martinez@email.com,+1222654987,3468 Health Sciences,Detroit,MI,48201,USA,Ford Motor Company,Safety Engineer,Technology;Health,true
+Harper,Rodriguez,harper.rodriguez@email.com,+1777987321,4579 Innovation Park,Minneapolis,MN,55401,USA,3M,Research Scientist,Technology;Education,false
+Elijah,Wilson,elijah.wilson@email.com,+1555654123,5680 Marketing Plaza,Tampa,FL,33601,USA,Home Depot,Marketing Analyst,Marketing;Business,true
+Evelyn,Johnson,evelyn.johnson@email.com,+1444789321,6791 Design Center,Las Vegas,NV,89101,USA,MGM Resorts,Interior Designer,Design,false
+Sebastian,Davis,sebastian.davis@email.com,+1888987123,7802 Tech Campus,Columbus,OH,43085,USA,Nationwide,Software Architect,Technology,true
+Scarlett,Brown,scarlett.brown@email.com,+1666123789,8913 Creative Hub,Indianapolis,IN,46201,USA,Eli Lilly,Graphic Designer,Design;Health,true
+Grayson,Taylor,grayson.taylor@email.com,+1333654789,9024 Business Center,Charlotte,NC,28202,USA,Bank of America,Investment Advisor,Business,false
+Victoria,Anderson,victoria.anderson@email.com,+1999789123,1135 Education Way,Kansas City,MO,64101,USA,Sprint,Training Specialist,Education;Technology,true
+Jack,Thomas,jack.thomas@email.com,+1222456321,2246 Health Plaza,Virginia Beach,VA,23451,USA,Sentara Healthcare,Physical Therapist,Health,false
+Lily,Jackson,lily.jackson@email.com,+1777321789,3357 Innovation Street,Oklahoma City,OK,73101,USA,Chesapeake Energy,Environmental Engineer,Technology;Health,true
+Henry,White,henry.white@email.com,+1555789456,4468 Marketing Avenue,New Orleans,LA,70112,USA,Entergy,Communications Manager,Marketing;Business,true
+Grace,Harris,grace.harris@email.com,+1444456789,5579 Design Boulevard,Louisville,KY,40201,USA,Brown-Forman,Package Designer,Design;Marketing,false

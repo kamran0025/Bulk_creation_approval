@@ -1,0 +1,24 @@
+.form-step {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.form-step__title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+}
+
+.form-step__description {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 30px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.form-step__content {
+  margin-bottom: 30px;
+}

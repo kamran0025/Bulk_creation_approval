@@ -1,0 +1,6 @@
+firstName,lastName,email,phone,street,city,state,zipCode,country,company,jobTitle,interests,newsletter
+Alice,Cooper,alice.cooper@test.com,+1234567890,123 Rock Street,Detroit,MI,48201,USA,Music Corp,Musician,Design;Marketing,true
+Bob,Builder,bob.builder@test.com,+1987654321,456 Construction Ave,Austin,TX,78701,USA,Build Co,Project Manager,Business;Technology,false
+Carol,Singer,carol.singer@test.com,+1555123789,789 Melody Lane,Nashville,TN,37201,USA,Record Label,Vocalist,Design,true
+Dave,Coder,dave.coder@test.com,+1444987321,321 Binary Blvd,San Francisco,CA,94102,USA,Tech Startup,Developer,Technology;Education,true
+Eve,Doctor,eve.doctor@test.com,+1777456789,654 Health Plaza,Boston,MA,02101,USA,General Hospital,Physician,Health;Education,false
