@@ -1,0 +1,26 @@
+firstName,lastName,email,phone,street,city,state,zipCode,country,company,jobTitle,interests,newsletter
+John,Doe,john.doe@example.com,+1234567890,123 Main Street,New York,NY,10001,USA,Tech Corp,Software Developer,Technology;Design,true
+Jane,Smith,jane.smith@example.com,+1987654321,456 Oak Avenue,Los Angeles,CA,90210,USA,Design Studio,UX Designer,Design;Marketing,false
+Mike,Johnson,mike.johnson@example.com,+1122334455,789 Pine Road,Chicago,IL,60601,USA,Business Solutions,Project Manager,Business;Technology,true
+Sarah,Wilson,sarah.wilson@example.com,+1555666777,321 Elm Street,Houston,TX,77001,USA,Healthcare Inc,Registered Nurse,Health;Education,false
+David,Brown,david.brown@example.com,+1999888777,654 Maple Drive,Phoenix,AZ,85001,USA,Marketing Agency,Marketing Manager,Marketing;Business,true
+Emily,Davis,emily.davis@example.com,+1444555333,987 Cedar Lane,Philadelphia,PA,19101,USA,Edu Tech,Teacher,Education;Technology,true
+Robert,Miller,robert.miller@example.com,+1777888999,147 Birch Street,San Antonio,TX,78201,USA,Construction Co,Site Manager,Business,false
+Lisa,Garcia,lisa.garcia@example.com,+1666777888,258 Spruce Avenue,San Diego,CA,92101,USA,Health Systems,Physical Therapist,Health,true
+James,Rodriguez,james.rodriguez@example.com,+1333444555,369 Willow Drive,Dallas,TX,75201,USA,Finance Corp,Financial Analyst,Business;Technology,false
+Jennifer,Martinez,jennifer.martinez@example.com,+1888999000,741 Poplar Street,San Jose,CA,95101,USA,Creative Agency,Graphic Designer,Design;Marketing,true
+William,Anderson,william.anderson@example.com,+1222333444,852 Ash Road,Austin,TX,73301,USA,Software Inc,DevOps Engineer,Technology,true
+Jessica,Taylor,jessica.taylor@example.com,+1111222333,963 Hickory Lane,Jacksonville,FL,32099,USA,Media Company,Content Writer,Marketing;Education,false
+Christopher,Thomas,christopher.thomas@example.com,+1555444333,159 Walnut Avenue,Fort Worth,TX,76101,USA,Consulting Group,Business Consultant,Business,true
+Amanda,Jackson,amanda.jackson@example.com,+1444333222,357 Chestnut Drive,Columbus,OH,43085,USA,Research Lab,Data Scientist,Technology;Education,true
+Daniel,White,daniel.white@example.com,+1777666555,486 Sycamore Street,Charlotte,NC,28202,USA,Real Estate,Property Manager,Business,false
+Ashley,Harris,ashley.harris@example.com,+1666555444,572 Magnolia Road,Seattle,WA,98101,USA,Non-Profit,Program Coordinator,Education;Health,true
+Matthew,Clark,matthew.clark@example.com,+1999111222,683 Dogwood Lane,Denver,CO,80202,USA,Tech Startup,Full Stack Developer,Technology;Design,true
+Michelle,Lewis,michelle.lewis@example.com,+1333555777,794 Redwood Avenue,Washington,DC,20001,USA,Government,Policy Analyst,Business;Education,false
+Ryan,Lee,ryan.lee@example.com,+1888777666,815 Pine Valley Drive,Boston,MA,02101,USA,Biotech,Research Scientist,Technology;Health,true
+Nicole,Walker,nicole.walker@example.com,+1222444666,926 Oak Hill Street,El Paso,TX,79901,USA,Manufacturing,Quality Engineer,Technology;Business,false
+Kevin,Hall,kevin.hall@example.com,+1555333111,147 Riverside Drive,Nashville,TN,37201,USA,Music Industry,Audio Engineer,Technology;Design,true
+Stephanie,Allen,stephanie.allen@example.com,+1777999333,258 Mountain View Lane,Memphis,TN,38101,USA,Logistics,Supply Chain Manager,Business,false
+Brandon,Young,brandon.young@example.com,+1444666888,369 Valley Road,Portland,OR,97201,USA,Environmental Corp,Environmental Scientist,Health;Education,true
+Rachel,Hernandez,rachel.hernandez@example.com,+1666888222,471 Lakeside Avenue,Oklahoma City,OK,73101,USA,Insurance,Claims Adjuster,Business,false
+Justin,King,justin.king@example.com,+1999333555,582 Hillcrest Drive,Las Vegas,NV,89101,USA,Hospitality,Hotel Manager,Business;Marketing,true
